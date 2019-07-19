@@ -58,4 +58,4 @@ readLimit默认设置的是 128k
         "com.amazonaws.sdk.s3.defaultStreamBufferSize";
 ```  
 如果com.amazonaws.sdk.s3.defaultStreamBufferSize 有设置，则使用设置的大小，如果没有，这是用默认的128k
-所以，这只该值就可以了
+所以，只需设置该值就可以了
